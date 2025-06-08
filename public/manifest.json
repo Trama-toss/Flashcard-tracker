@@ -1,0 +1,21 @@
+{
+  "manifestVersion": 1,
+  "id": "plugin_template",
+  "name": "Plugin Template",
+  "author": "RemNote",
+  "repoUrl": "",
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 0
+  },
+  "description": "",
+  "authorizedActions": "Read",
+  "requestNative": false,
+  "requiredScopes": [
+    {
+      "type": "All",
+      "level": "Read"
+    }
+  ]
+}
